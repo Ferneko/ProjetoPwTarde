@@ -24,20 +24,17 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+      <ul class="d-flex justify-content-around navbar-nav me-auto mb-2 mb-lg-0 " style="border:1px solid white; width:100%">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="./index.php">
             Home
         </a>
         </li>
-
         <li class="nav-item">
           <a href="./usuarios.php" class="nav-link active" aria-current="page" >
             Usuários
         </a>
-        </li>
-      
-
       </ul>
       
     </div>
